@@ -1,1 +1,3 @@
-print("Hello AD, pay attention!!!!", quote = FALSE)
+
+print("Hello everyone, we are LEARNING!!!!", quote = FALSE)
+
