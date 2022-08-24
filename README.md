@@ -1,3 +1,3 @@
 # r-training
 
-hello
+`Tools` -> `Version Control` -> `Commit`
