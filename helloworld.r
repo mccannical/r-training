@@ -1,1 +1,1 @@
-print("Hello everyone!", quote = FALSE)
+print("Hello everyone! We are LEARNING THINGS", quote = FALSE)
